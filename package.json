@@ -1,0 +1,22 @@
+{
+  "name": "signature-generator",
+  "version": "0.0.1",
+  "description": "E-mail signature generator built using ReactJS and Next.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "signature",
+    "generator",
+    "e-mail"
+  ],
+  "author": "spik3s",
+  "license": "ISC",
+  "repository": "github:spik3s/signature-generator",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
